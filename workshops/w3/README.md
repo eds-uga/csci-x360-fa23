@@ -1,4 +1,4 @@
-# Workshop 2: Julia
+# Workshop 3: Julia
 
 Slides: [julia_workshop.pdf](julia_workshop.pdf)
 
